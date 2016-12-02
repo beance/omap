@@ -16,7 +16,7 @@
 package omap_test
 
 import (
-    "qtrac.eu/omap"
+    "github.com/beance/omap"
     "strings"
     "testing"
 )
